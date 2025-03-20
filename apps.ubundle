@@ -232,6 +232,13 @@
       }
     }
   ],
+  "chrome_extensions": [
+    {
+      "id": "ddkjiahejlhfcafbddmgiahcphecmpfh",
+      "name": "uBlock Origin Lite",
+      "version": "latest"
+    },
+  ],
   "incompatible_packages_info": "Incompatible packages cannot be installed from WingetUI, but they have been listed here for logging purposes.",
   "incompatible_packages": []
 }
